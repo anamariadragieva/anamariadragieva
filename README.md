@@ -1,6 +1,6 @@
 # Ana Maria Dragieva
 
-## From Fabric to Code: Fashion Innovator now Crafting Python Magic | Fashion Creative Turned Software Engineer
+## From Fabric to Code: Fashion Innovator now Crafting Python Magic | Fashion Creative Turned Software Engineer 🌟
 
 ### 👩🏻‍💻 About Me
 
@@ -11,7 +11,7 @@ class AnaMariaDragieva:
         self.location = "London, UK 🇬🇧"
         self.background = "Fashion Design | London College of Fashion, UAL"
         self.interests = ["Software Engineering", "Backend Development", "Sustainable Fashion", "Regenerative Materials"]
-        self.skills = ["Python", "Django", "HTML/CSS"]
+        self.skills = ["Python", "Django", "SQL", "HTML/CSS", "Abobe Suite", "CLO 3D"]
         
     def say_hello(self):
         return "Hello, I'm Ana Maria Dragieva, a fashion designer turned software engineer with a passion for innovative solutions in tech. Welcome to my profile!"
@@ -51,17 +51,21 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education
 
-### London College of Fashion, UAL
-**Bachelor of Arts in Fashion Design**  
-*Graduated: Year*
+### HyperionDev
+**Software Engineering (Fundamentals) Skills Bootcamp**
+*November 2023 - March 2024 | London, UK*
 
-- Specialized in Sustainable Fashion Design.
-- Collaborated with renowned designers on innovative projects.
-- Explored the intersection of fashion, technology, and sustainability.
+### London College of Fashion, University of the Arts London
+**Bachelor of Arts with Honours in Fashion Design and Development**  
+*September 2018 - July 2022 | London, UK*
 
-### Professional Experience
+**Professional Diploma in Creative Enterprise (EDiPS)**  
+*September 2020 - July 2021 (Sandwich Year)*
+
+
+## Professional Experience
 **Fashion Designer | Company Name**  
 *Dates*
 
@@ -72,30 +76,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 
 ## 📫 Get in Touch
 
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [View Portfolio](https://www.yourportfolio.com/)
-- 📄 Resume: [View Resume](https://www.yourresume.com/)
-
----
-
-## 🌟 Let's Connect!
-
-I'm always open to new opportunities, collaborations, and conversations about sustainable fashion and innovative tech solutions. Feel free to reach out!
-
-- LinkedIn: [
-
-Ana Maria Dragieva](https://www.linkedin.com/in/ana-maria-dragieva/)
-- Portfolio: [Your Portfolio](https://www.yourportfolio.com/)
-- Email: your.email@example.com
-
----
-
-*Inspired by creativity, driven by sustainability, and dedicated to innovation.*
-
----
-
-Feel free to replace the placeholder content (`link_to_project_1`, `link_to_repo_1`, etc.) with your actual project details and links. Also, remember to add your profile picture (`profile_pic.png`) and project screenshots (`project_1_screenshot.png`, `project_2_screenshot.png`) to the repository.
-
-This README is designed to showcase your journey from Fashion Design to Software Engineering, highlighting your skills, projects, education, and passion for sustainability. It should serve as a professional and engaging introduction for recruiters and potential collaborators.
-
-Let me know if there's anything specific you'd like to adjust or add! 🌟
+- 📧 Email: anamariatxt@gmail.com
+- 🌐 LinkedIn: [View Portfolio](https://www.linkedin.com/in/anamariadragieva/)
+- 📄 Bootcamp Progress: [View Resume](http://www.hyperiondev.com/portfolio/AD23100009781/)
+- 
