@@ -1,7 +1,6 @@
 # Ana Maria Dragieva
 
 ## From Fabric to Code: Fashion Innovator now Crafting Python Magic | Fashion Creative Turned Software Engineer
----
 
 ### 👩🏻‍💻 About Me
 
@@ -32,95 +31,7 @@ Graduated from London College of Fashion (UAL) in 2022 with a BA in Fashion Desi
 I have years of experience working professionally with Adobe's programs including Illustrator, Photoshop & InDesign, Procreate, CLO & and Marvelous Designer. While studying I have also taken on industry roles as Design Assistant and Studio Assistant. I have worked on freelance projects including creating technical drawings and spec sheets and photoshoot styling gigs. 
 
 In recent years, I focused on personal projects and cofounded Earth Vol.2, a sustainability-oriented blog and news outlet and ArtheaDigital, a graphic design studio creating digital artworks.
----
 
-## 🌿 Fashion Meets Code
-
-```css
-/* Stylesheet for Ana Maria's GitHub Profile */
-body {
-    background-color: #f5f5f5;
-    font-family: 'Roboto', sans-serif;
-}
-
-.profile {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding: 2rem;
-}
-
-.profile-pic {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-}
-
-.name {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #333;
-    margin: 1rem 0;
-}
-
-.location {
-    font-size: 1.2rem;
-    color: #555;
-}
-
-.background {
-    font-size: 1.2rem;
-    color: #555;
-    margin-bottom: 1rem;
-}
-
-.about {
-    max-width: 600px;
-    text-align: center;
-    margin: 2rem auto;
-    padding: 1.5rem;
-    background-color: #fff;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    color: #555;
-}
-
-.skills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-top: 1rem;
-}
-
-.skill-tag {
-    background-color: #e6f7ff;
-    color: #1890ff;
-    font-size: 1rem;
-    padding: 0.25rem 0.5rem;
-    border-radius: 16px;
-}
-```
-
----
-
-<div align="center" class="profile">
-    <img src="profile_pic.png" alt="Ana Maria Dragieva" class="profile-pic">
-    <h1 class="name">Ana Maria Dragieva</h1>
-    <h2 class="location">London, UK</h2>
-    <p class="background">Fashion Design | London College of Fashion, UAL</p>
-    <p class="about">Hello! I'm Ana Maria, a Fashion Design graduate with a strong background in working with renowned fashion designers. Transitioning into Software Engineering, I bring a unique blend of creativity and technical skills to the table. Passionate about sustainability and regenerative materials in fashion, let's create a better future together!</p>
-    <div class="skills">
-        <span class="skill-tag">Python</span>
-        <span class="skill-tag">JavaScript</span>
-        <span class="skill-tag">React</span>
-        <span class="skill-tag">Django</span>
-        <span class="skill-tag">HTML/CSS</span>
-    </div>
-</div>
-
----
 
 ## 💻 Featured Projects
 
