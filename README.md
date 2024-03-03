@@ -9,14 +9,14 @@ class AnaMariaDragieva:
         self.name = "Ana Maria Dragieva"
         self.location = "London, UK 🇬🇧"
         self.background = "Fashion Design | London College of Fashion, UAL"
-        self.interests = ["Sustainable Fashion", "Regenerative Materials", "Software Engineering"]
-        self.skills = ["Python", "JavaScript", "React", "Django", "HTML/CSS"]
+        self.interests = ["Software Engineering", "Backend Development", "Sustainable Fashion", "Regenerative Materials"]
+        self.skills = ["Python", "Django", "HTML/CSS"]
         
     def say_hello(self):
-        return "Hello, I'm Ana Maria Dragieva, a Fashion Design graduate turned Software Engineer with a passion for sustainable solutions in fashion and technology. Welcome to my profile!"
+        return "Hello, I'm Ana Maria Dragieva, a fashion designer turned software engineer with a passion for innovative solutions in tech. Welcome to my profile!"
     
     def get_in_touch(self):
-        return "📩 Let's connect! Feel free to reach out for collaborations or discussions on sustainable fashion and innovative tech solutions."
+        return "📩 Let's connect! Feel free to reach out for collaborations or discussions!"
 
 ana = AnaMariaDragieva()
 print(ana.say_hello())
