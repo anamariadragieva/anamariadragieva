@@ -30,8 +30,7 @@ Graduated from London College of Fashion (UAL) in 2022 with a BA in Fashion Desi
 
 I have years of experience working professionally with Adobe's programs including Illustrator, Photoshop & InDesign, Procreate, CLO & and Marvelous Designer. While studying I have also taken on industry roles as Design Assistant and Studio Assistant. I have worked on freelance projects including creating technical drawings and spec sheets and photoshoot styling gigs. 
 
-In recent years, I focused on personal projects and cofounded Earth Vol.2, a sustainability-oriented blog and news outlet and ArtheaDigital, a graphic design studio creating digital artworks.
-
+---
 
 ## 💻 Featured Projects
 
@@ -56,6 +55,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 **Professional Diploma in Creative Enterprise (EDiPS)**  
 *September 2020 - July 2021 (Sandwich Year)*
 
+---
 
 ## Professional Experience
 **Software Engineer Trainee | HyperionDev**  
