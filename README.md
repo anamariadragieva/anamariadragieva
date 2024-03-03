@@ -1,7 +1,9 @@
 # Ana Maria Dragieva
+
+## From Fabric to Code: Fashion Innovator now Crafting Python Magic | Fashion Creative Turned Software Engineer
 ---
 
-## 👩🏻‍💻 About Me
+### 👩🏻‍💻 About Me
 
 ```python
 class AnaMariaDragieva:
@@ -23,6 +25,13 @@ print(ana.say_hello())
 print(ana.get_in_touch())
 ```
 
+Currently enrolled on a Software Engineering course at HyperionDev, learning to code and develop using Python. At the same time, I'm a Sales Associate at SageBrown London, a luxury leather accessories company specialised in crafting top-quality leather goods, for retail, bespoke and corporate clients. Highly involved in the design and production decision-making. 
+
+Graduated from London College of Fashion (UAL) in 2022 with a BA in Fashion Design & Development and a Diploma in Creative Enterprise. During my studies and involvement with London-based fashion houses, I developed a strong interest in sustainable regenerative design. practices. In my final year at LCF, I focused on developing a concept of zero waste sustainable design and created a collection of garments made from discarded leftover fruits and vegs and naturally occurring ingredients like liquid latex and algae. I was also invited to present demos and workshops on how I develop these materials at Somerset House, London and at my alma mater.
+
+I have years of experience working professionally with Adobe's programs including Illustrator, Photoshop & InDesign, Procreate, CLO & and Marvelous Designer. While studying I have also taken on industry roles as Design Assistant and Studio Assistant. I have worked on freelance projects including creating technical drawings and spec sheets and photoshoot styling gigs. 
+
+In recent years, I focused on personal projects and cofounded Earth Vol.2, a sustainability-oriented blog and news outlet and ArtheaDigital, a graphic design studio creating digital artworks.
 ---
 
 ## 🌿 Fashion Meets Code
