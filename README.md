@@ -35,19 +35,11 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 
 ## 💻 Featured Projects
 
-### Project 1: [Sustainable Fashion Platform](link_to_project_1)
-![Project 1](project_1_screenshot.png)
+### Project 1: [Task Manager Program](https://github.com/anamariadragieva/finalCapstone)
 
-- Developed a platform to promote sustainable fashion brands.
-- Technologies: React, Django, PostgreSQL.
-- [View Project](link_to_project_1) | [GitHub Repo](link_to_repo_1)
-
-### Project 2: [Material Innovation Showcase](link_to_project_2)
-![Project 2](project_2_screenshot.png)
-
-- Collaborated with fashion designers to showcase regenerative materials.
-- Technologies: HTML/CSS, JavaScript.
-- [View Project](link_to_project_2) | [GitHub Repo](link_to_repo_2)
+- Developed a program to create, view and modify tasks for users. 
+- Technologies: Python
+- [GitHub Repo](https://github.com/anamariadragieva/finalCapstone/blob/main/task_manager.py)
 
 ---
 
@@ -75,6 +67,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 - Development of custom software modules and applications;
 - Documenting all code and processes, updating documentation.
 
+
 **Assistant Manager | SageBrown**  
 *February 2023 - Present • London, UK*
 
@@ -91,6 +84,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 - Liaising with clients. Improved production management coordination and quality checks;
 - Supervised and trained new members of staff, showing best practices and taking complete responsibility for the team’s performance.
 
+
 **Fashion Designer | Freelance - Luxury Womenswear Brands**  
 *March 2020 – December 2022 • London, UK*
 
@@ -100,6 +94,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 - Holding meetings with suppliers and the sourcing teams to develop bespoke materials;
 - Collaborating with print, graphic designers and fabric team on artworks and fabric developments.
 
+
 **Studio Manager | Cross Spot Studio**  
 *October 2018 - March 2020 • London, UK*
 
@@ -108,6 +103,7 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 - Garment construction, pattern cutting, fitting, materials/fabric sourcing and purchasing;
 - Liaising with clients. Improved production management coordination and quality checks;
 - Supervised a team of 10 people, trained studio assistants and interns, general admin tasks.
+
 
 **Design Assistant | Nutcracker**  
 *October 2017 - February 2019 • London, UK*
