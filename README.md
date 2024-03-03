@@ -68,6 +68,7 @@ I have years of experience working professionally with Adobe's programs includin
 - Documenting all code and processes, updating documentation.
 
 
+
 **Assistant Manager | SageBrown**  
 *February 2023 - Present • London, UK*
 
@@ -85,6 +86,7 @@ I have years of experience working professionally with Adobe's programs includin
 - Supervised and trained new members of staff, showing best practices and taking complete responsibility for the team’s performance.
 
 
+
 **Fashion Designer | Freelance - Luxury Womenswear Brands**  
 *March 2020 – December 2022 • London, UK*
 
@@ -95,6 +97,7 @@ I have years of experience working professionally with Adobe's programs includin
 - Collaborating with print, graphic designers and fabric team on artworks and fabric developments.
 
 
+
 **Studio Manager | Cross Spot Studio**  
 *October 2018 - March 2020 • London, UK*
 
@@ -103,6 +106,7 @@ I have years of experience working professionally with Adobe's programs includin
 - Garment construction, pattern cutting, fitting, materials/fabric sourcing and purchasing;
 - Liaising with clients. Improved production management coordination and quality checks;
 - Supervised a team of 10 people, trained studio assistants and interns, general admin tasks.
+
 
 
 **Design Assistant | Nutcracker**  
