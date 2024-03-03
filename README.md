@@ -66,11 +66,58 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 
 
 ## Professional Experience
-**Fashion Designer | Company Name**  
-*Dates*
+**Software Engineer Trainee | HyperionDev**  
+*October 2023 - Present • London, UK*
 
-- Led design projects for [specific brand/collection].
-- Implemented sustainable design practices, reducing carbon footprint by X%.
+- Motivated Software Engineering professional with 6 months of experience in Python, including OOP, SQL, Django.
+  Seeking to apply technical skills in conjunction with previous experience in the creative industry;
+- Performed version control using tools like Git to manage projects collaboratively and ensure code quality and maintainability;
+- Development of custom software modules and applications;
+- Documenting all code and processes, updating documentation.
+
+**Assistant Manager | SageBrown**  
+*February 2023 - Present • London, UK*
+
+- Promoted to Assistant Manager after a year in the company, taking on more responsibility,
+  leading the team towards achieving higher results, streamlining the customer satisfaction journey;
+- Project managing multiple bespoke and wholesale client accounts;
+
+**Sales Associate | SageBrown**  
+*January 2023 – February 2024 • London, UK*
+
+- Improved the online and physical marketing of the brand by introducing better quality content;
+- Doubled the intake of bespoke orders, the company’s highest profit service by highlighting this option to clients,
+  created, managed and streamlined the critical path for bespoke orders production;
+- Liaising with clients. Improved production management coordination and quality checks;
+- Supervised and trained new members of staff, showing best practices and taking complete responsibility for the team’s performance.
+
+**Fashion Designer | Freelance - Luxury Womenswear Brands**  
+*March 2020 – December 2022 • London, UK*
+
+- Worked for some of London’s top brands on seasonal projects including CAD design, illustrations, print,
+  fabric sourcing and consulting, following the critical path deadlines;
+- Liaising with the product development team regarding all deadlines (design, fabric, fittings);
+- Holding meetings with suppliers and the sourcing teams to develop bespoke materials;
+- Collaborating with print, graphic designers and fabric team on artworks and fabric developments.
+
+**Studio Manager | Cross Spot Studio**  
+*October 2018 - March 2020 • London, UK*
+
+- Started as Studio Assistant and was promoted to Manager in 6 months; doubled efficiency;
+- Ensuring the smooth daily running of the studio and a high level of organisation at all times;
+- Garment construction, pattern cutting, fitting, materials/fabric sourcing and purchasing;
+- Liaising with clients. Improved production management coordination and quality checks;
+- Supervised a team of 10 people, trained studio assistants and interns, general admin tasks.
+
+**Design Assistant | Nutcracker**  
+*October 2017 - February 2019 • London, UK*
+
+- Working alongside & supporting the Creative Director with admin and design duties, contributing
+  to the womenswear collections with sketches, illustrations, mood, trend and colour boards;
+- Liaising with factories and suppliers daily, ensuring smooth relationships. Introduced new suppliers
+  which lowered pricing costs by 20%;
+- Creating CAD drawings, garment specification sheets and graphic design up to the highest industry standard.
+  Produced a collection of over 50 products for our first season.
 
 ---
 
@@ -79,4 +126,3 @@ In recent years, I focused on personal projects and cofounded Earth Vol.2, a sus
 - 📧 Email: anamariatxt@gmail.com
 - 🌐 LinkedIn: [View Portfolio](https://www.linkedin.com/in/anamariadragieva/)
 - 📄 Bootcamp Progress: [View Resume](http://www.hyperiondev.com/portfolio/AD23100009781/)
-- 
