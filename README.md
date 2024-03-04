@@ -124,5 +124,5 @@ I have years of experience working professionally with Adobe's programs includin
 ## 📫 Get in Touch
 
 - 📧 Email: anamariatxt@gmail.com
-- 🌐 LinkedIn: [View Portfolio](https://www.linkedin.com/in/anamariadragieva/)
-- 📄 Bootcamp Progress: [View Resume](http://www.hyperiondev.com/portfolio/AD23100009781/)
+- 🌐 LinkedIn: [View Profile](https://www.linkedin.com/in/anamariadragieva/)
+- 📄 Bootcamp Progress: [View Results](http://www.hyperiondev.com/portfolio/AD23100009781/)
