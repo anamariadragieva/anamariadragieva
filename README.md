@@ -34,7 +34,19 @@ I have years of experience working professionally with Adobe's programs includin
 
 ## 💻 Featured Projects
 
-### Project 1: [Task Manager Program](https://github.com/anamariadragieva/finalCapstone)
+### [Mind in Motion](https://github.com/anamariadragieva/mind-in-motion-web-app)
+
+#### Mind in Motion is a web-based daily affirmation app designed to inspire and empower individuals with ADHD. The app displays a random affirmation daily from a curated set of messages organized by theme. Users can load a new affirmation by clicking a button or simply pressing the "Enter" key.
+
+**Technologies**
+- **HTML:** Provides the structure of the web app.
+- **CSS:** Handles styling, animations, and responsive design.
+- **JavaScript:** Manages dynamic functionality and fetching affirmations.
+- **JSON:** Stores affirmation data.
+- [Mind in Motion Web App](https://anamariadragieva.github.io/mind-in-motion-web-app/)
+
+
+### [Task Manager Program](https://github.com/anamariadragieva/finalCapstone)
 
 - Developed a program to create, view and modify tasks for users. 
 - Technologies: Python
