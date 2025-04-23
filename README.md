@@ -71,15 +71,13 @@
 <p align="left">Mind in Motion is a web-based daily affirmation app designed to inspire and empower individuals with ADHD. The app displays a random affirmation daily from a curated set of messages organized by theme. Users can load a new affirmation by clicking a button or simply pressing the "Enter" key.<br>Technologies<br><br>HTML: Provides the structure of the web app.<br>CSS: Handles styling, animations, and responsive design.<br>JavaScript: Manages dynamic functionality and fetching affirmations.<br>JSON: Stores affirmation data.<br>Mind in Motion Web App<br>Task Manager Program<br>Developed a program to create, view and modify tasks for users.<br>Technologies: Python<br>GitHub Repo</p>
 
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/githib-snake-light.svg" />
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/github-snake-light.svg" />
-</picture>
--->
 
-<img src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/snake-light.svg" />
+</picture>
+
 
 ###
 
