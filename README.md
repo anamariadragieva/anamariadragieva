@@ -2,7 +2,7 @@
 
 ## <p align="left">I build data-driven apps and creative interfaces that feel as good as they function.</p>
 
-###
+## I work with:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -70,9 +70,11 @@
 
 <p align="left">Mind in Motion is a web-based daily affirmation app designed to inspire and empower individuals with ADHD. The app displays a random affirmation daily from a curated set of messages organized by theme. Users can load a new affirmation by clicking a button or simply pressing the "Enter" key.<br>Technologies<br><br>HTML: Provides the structure of the web app.<br>CSS: Handles styling, animations, and responsive design.<br>JavaScript: Manages dynamic functionality and fetching affirmations.<br>JSON: Stores affirmation data.<br>Mind in Motion Web App<br>Task Manager Program<br>Developed a program to create, view and modify tasks for users.<br>Technologies: Python<br>GitHub Repo</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-dark.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-light.svg" alt="Snake animation" />
+</picture>
 
 ###
 
