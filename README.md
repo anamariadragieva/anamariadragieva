@@ -1,6 +1,9 @@
-# <p align="left">Hello World! I'm Ana Maria, a Full Stack Developer 👋🏼</p>
+# <p align="left">Hello World! I'm Ana Maria 👋🏼</p>
 
-## <p align="left">I build data-driven apps and creative interfaces that feel as good as they function.</p>
+### <p align="left">I'm a Full Stack Developer building data-driven apps and creative interfaces that feel as good as they function</p>
+
+<img src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" alt="GitHub Snake animation"/>
+
 
 ## I work with:
 
@@ -79,7 +82,7 @@
 </picture>
 -->
 
-<img src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" alt="GitHub Snake animation"/>
+
 
 
 ###
