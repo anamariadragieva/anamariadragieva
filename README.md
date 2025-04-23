@@ -72,9 +72,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-light.svg" />
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/githib-snake-light.svg" />
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/dist/github-snake-light.svg" />
 </picture>
 
 
