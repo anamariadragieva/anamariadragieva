@@ -1,13 +1,13 @@
 # <p align="left">👋🏼 Hi, I'm Ana Maria Dragieva</p>
 
-#### <p align="left">I'm a Full Stack Developer building data-driven apps and creative interfaces that feel as good as they function...</p>
+### <p align="left">I'm a Full Stack Developer building data-driven apps and creative interfaces that feel as good as they function...</p>
 <br>
 
 ### <p align="center">Code. Commit. Repeat. I'm just trying to keep the snake happy & well-fed ⬇️</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" />
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/anamariadragieva/anamariadragieva/output/snake.svg" />
 </picture>
 
@@ -92,8 +92,8 @@
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
 </div>
 
-##
 
+---
 ## <p align="left">🚀 Featured Projects</p>
 
 <table>
@@ -109,16 +109,15 @@
       <img src="https://skillicons.dev/icons?i=html" style="pointer-events: none; margin-left: 10px;" height="16" alt="html5 logo" />
       <img src="https://skillicons.dev/icons?i=css" style="pointer-events: none; margin-left: 10px;" height="17" alt="css3 logo"  />
       <br><br>
-      <a href="https://github.com/anamariadragieva/mind-in-motion-web-app" style="text-decoration: none;">🔗 Live Demo </a>
-       |  
-      <a href="https://github.com/anamariadragieva/mind-in-motion-web-app" style="text-decoration: none;">📁 Source Code</a>
+      🔗 <a href="https://github.com/anamariadragieva/mind-in-motion-web-app" style="text-decoration: none;">Live Demo </a> |  
+      📁 <a href="https://github.com/anamariadragieva/mind-in-motion-web-app" style="text-decoration: none;">Source Code</a>
       <br>
     </td>
   </tr>
 </table>
 
 <br>
-loading next project..
+loading next projects..
 <br>
 <br>
 ..2.. Task Manager
@@ -148,6 +147,4 @@ I’d be glad to explore how I can support your next project or team.
 
 #### You can find me on LinkedIn too 👉🏼 [View Profile](https://www.linkedin.com/in/anamariadragieva/)
 
-##### Want to see more? I also have a [Portfolio Website](https://anamariadragieva.github.io/ana-maria-dragieva/) styled to the T</p>
-
-###### Okay, that's all.
+#### Want to see more? I also have a [Portfolio Website](https://anamariadragieva.github.io/ana-maria-dragieva/)</p>
