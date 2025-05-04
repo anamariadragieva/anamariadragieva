@@ -12,6 +12,11 @@
 </picture>
 
 ---
+## 🚀 What I'm Up To
+
+- 🤖 Exploring Machine Learning
+- 💻 Building Letter.Send - web app for blogs with JavaScript 
+- 
 ## <p align="left">🛠️ My Tech Stack:</p>
 
 <div align="left">
