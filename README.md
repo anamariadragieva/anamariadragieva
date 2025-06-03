@@ -140,9 +140,13 @@ loading next projects..
 ..4.. Mondrian Compositions
 <br>
 <br>
-..5.. Finance Calculator
+..5.. Finance Calculator (Upcoming)
+Developing a Python-based application to assist users in calculating savings, salary projections, investment growth, and more. This tool aims to provide personalised financial insights and planning assistance.
 <br>
 <br>
+..6.. Business Forecasting Tool (Upcoming)
+Creating a business analytics app to forecast revenue & profit using real-time data and machine learning. Integrating live economic data feeds for enhanced financial modelling.
+<br><br>
 ..6.. Invoice Generator
 <br><br>
 
