@@ -90,7 +90,7 @@ This web application displays a table of cryptocurrency data fetched from the Co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="pointer-events: none; margin-left: 10px;" height="17" alt="npm logo"  /> 
 </div>
 <br>
-📁 <a href="https://github.com/anamariadragieva/track-and-thrive" style="text-decoration: none;">Source Code</a>
+🔗 <a href="https://track-and-thrive.onrender.com" style="text-decoration: none;">Live Demo</a>  | 📁 <a href="https://github.com/anamariadragieva/track-and-thrive" style="text-decoration: none;">Source Code</a>
 <br>
 
 ---
